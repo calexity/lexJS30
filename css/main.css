@@ -144,12 +144,13 @@ a:hover {
   flex-direction:row;
   flex-flow: row wrap;
   align-items:stretch;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 twitterwidget {
   margin: 10px;
 }
+
 
 
 
