@@ -151,7 +151,9 @@ twitterwidget {
   margin: 10px;
 }
 
-
+blockquote.p {
+  display: none;
+}
 
 
 
